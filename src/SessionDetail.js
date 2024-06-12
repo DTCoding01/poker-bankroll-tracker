@@ -1,11 +1,12 @@
 // src/SessionDetail.js
 import React from 'react';
 
-function SessionDetail() {
+function SessionDetail({ session }) {
   return (
     <div className="session-detail">
-      <h3>Session Details</h3>
-      {/* Display session details here */}
+      <h3>Session on {session.date}</h3>
+      <p>Duration: {session.duration} hours</p>
+      <p>Profit/Loss: ${session.profit}</p>
     </div>
   );
 }

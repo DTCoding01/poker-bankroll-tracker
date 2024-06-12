@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poker-bankroll-tracker/static/css/main.f080b34f.css",
+    "main.js": "/poker-bankroll-tracker/static/js/main.f4d57ef2.js",
+    "static/js/453.464a4616.chunk.js": "/poker-bankroll-tracker/static/js/453.464a4616.chunk.js",
+    "index.html": "/poker-bankroll-tracker/index.html",
+    "main.f080b34f.css.map": "/poker-bankroll-tracker/static/css/main.f080b34f.css.map",
+    "main.f4d57ef2.js.map": "/poker-bankroll-tracker/static/js/main.f4d57ef2.js.map",
+    "453.464a4616.chunk.js.map": "/poker-bankroll-tracker/static/js/453.464a4616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f080b34f.css",
+    "static/js/main.f4d57ef2.js"
+  ]
+}
